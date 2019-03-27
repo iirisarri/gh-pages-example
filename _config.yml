@@ -1,6 +1,6 @@
 title: Example project
 description: Project description in here.
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
 header_pages:
  - about.md
  - team.md
