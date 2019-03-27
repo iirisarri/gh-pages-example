@@ -10,3 +10,7 @@ title: Example
 - Some event
 - Another exciting event
 - More news
+
+## Research
+
+Exciting research here :-)
