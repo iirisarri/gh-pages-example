@@ -1,6 +1,6 @@
 title: Example project
 description: Project description in here.
-theme: minima
+theme: jekyll-theme-leap-day
 header_pages:
  - about.md
  - team.md
